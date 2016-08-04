@@ -1,0 +1,42 @@
+_repo: Nada-the-Lily_1207
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "Nada the Lily is an historical novel by English writer H. Rider Haggard,\
+  \ published in 1892. It is said to be inspired by Haggard's time in South Africa\
+  \ (1875–1882). It was illustrated by Charles H. M. Kerr.\nThe novel tells the tale\
+  \ of the origin and early life of the hero Umslopogaas, the illegitimate son of\
+  \ the great Zulu king and general Chaka, and his love for \"the most beautiful of\
+  \ Zulu women\", Nada the Lily. 'Chaka was a real king of the Zulus but Umslopogaas\
+  \ was invented by Haggard. He first appeared as an elderly but vigorous warrior\
+  \ in Allan Quatermain (1887). He also appears in the novel She and Allan(1921).\n\
+  'Nada the Lily' is unusual for a Victorian novel in that its entire cast of characters\
+  \ is South African and black.\nThere is some anecdotal evidence that Umslopogaas\
+  \ might have been based on an actual person, although not as described in the book.\
+  \ He would have been a Swazi not a Zulu.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1207'
+  wikidata: Q6957414
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zululand (South Africa) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Nada the Lily
+url: http://www.gutenberg.org/ebooks/1207
+wikipedia:
+- https://en.wikipedia.org/wiki/Nada_the_Lily
